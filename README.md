@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ChanceViewTool::Renderer.copyright 'Chance McKean', 'All rights reserved'
 
 ## Development
 
